@@ -728,6 +728,12 @@ footer {
     -ms-grid-column: 1;
     grid-column: 1;
   }
+  main #project #project-all .project-block8 {
+    -ms-grid-row: 8;
+    grid-row: 8;
+    -ms-grid-column: 1;
+    grid-column: 1;
+  }
   main #contact #contact-block {
     margin-left: 1rem;
     text-align: unset;
@@ -745,7 +751,7 @@ footer {
   #contact-links {
     height: 10%;
     margin-bottom: 2px;
-    font-size: 2rem;
+    font-size:1.5rem;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
